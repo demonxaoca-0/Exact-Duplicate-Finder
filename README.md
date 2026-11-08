@@ -192,3 +192,6 @@ This repository serves as the official landing page for Exact Duplicate Finder. 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Exact Duplicate Finder today!**
+
+---
+**Last updated:** 2026-11-08 11:42:55 UTC
