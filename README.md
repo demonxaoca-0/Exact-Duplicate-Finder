@@ -194,4 +194,4 @@ This repository serves as the official landing page for Exact Duplicate Finder. 
 **Get the most recent version of Exact Duplicate Finder today!**
 
 ---
-**Last updated:** 2026-11-13 18:23:56 UTC
+**Last updated:** 2026-11-14 00:11:21 UTC
